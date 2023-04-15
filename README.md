@@ -44,4 +44,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-RqzaX - [Facebook](https://www.facebook.com/dhieudzs1tg - [GitHub](https://github.com/dhieudzs1tg)
+dhieu - [Facebook](https://www.facebook.com/dhieudzs1tg) - [GitHub](https://github.com/dhieudzs1tg)
