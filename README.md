@@ -2,12 +2,12 @@
 <p><strong>Mirai Project?</strong></p>
 <p>
 	
-<strong>Mirai Project</strong> source code Miraiv2 được <strong>RqzaX</strong> mod lại.
+<strong>Mirai Project</strong> source code Miraiv2 được <strong>dhieu</strong> mod lại.
 </p>
 
 ### Version
 
-- @15.0.0
+- @4.0.0
 
 ### Yêu cầu
 
@@ -44,4 +44,4 @@ This project is licensed under the GNU General Public License v3.0 License - see
 <!-- CONTACT -->
 ## Contact
 
-RqzaX - [Facebook](https://www.facebook.com/RqzaX.VqnThuqn.040) - [GitHub](https://github.com/RqzaX040)
+RqzaX - [Facebook](https://www.facebook.com/dhieudzs1tg - [GitHub](https://github.com/dhieudzs1tg)
